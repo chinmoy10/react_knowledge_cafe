@@ -2,10 +2,10 @@
     {
       "id": 1,
       "cover": "https://example.com/cover1.jpg",
-      "title": "The Future of AI in Everyday Life",
+      "title": "How to get your first job as a self-taught programmer",
       "author": "John Doe",
       "author_img": "https://example.com/author1.jpg",
-      "posted_date": "2025-03-01",
+      "posted_date": "Mar 14 (4 Days ago)",
       "reading_time": 5,
       "hashtags": ["#AI", "#Technology", "#Future"]
     },
@@ -15,7 +15,7 @@
       "title": "Mastering JavaScript for Web Development",
       "author": "Jane Smith",
       "author_img": "https://example.com/author2.jpg",
-      "posted_date": "2025-03-02",
+      "posted_date": "Mar 14 (4 Days ago)",
       "reading_time": 8,
       "hashtags": ["#JavaScript", "#WebDevelopment", "#Coding"]
     },
@@ -25,7 +25,7 @@
       "title": "Cybersecurity Trends in 2025",
       "author": "Alice Johnson",
       "author_img": "https://example.com/author3.jpg",
-      "posted_date": "2025-03-03",
+      "posted_date": "Mar 14 (4 Days ago)",
       "reading_time": 6,
       "hashtags": ["#Cybersecurity", "#Hacking", "#Privacy"]
     },
@@ -35,7 +35,7 @@
       "title": "Blockchain Beyond Cryptocurrency",
       "author": "Michael Brown",
       "author_img": "https://example.com/author4.jpg",
-      "posted_date": "2025-03-04",
+      "posted_date": "Mar 14 (4 Days ago)",
       "reading_time": 7,
       "hashtags": ["#Blockchain", "#Crypto", "#Tech"]
     },
@@ -45,7 +45,7 @@
       "title": "The Rise of Quantum Computing",
       "author": "Emily White",
       "author_img": "https://example.com/author5.jpg",
-      "posted_date": "2025-03-05",
+      "posted_date": "Mar 14 (4 Days ago)",
       "reading_time": 10,
       "hashtags": ["#QuantumComputing", "#Innovation", "#Science"]
     }

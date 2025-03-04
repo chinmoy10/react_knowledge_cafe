@@ -13,7 +13,7 @@ const Blogs = () => {
 
     return (
         <div>
-            
+            <h1 className="text-4xl">Blogs</h1>
         </div>
     );
 };
